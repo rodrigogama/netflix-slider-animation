@@ -70,7 +70,7 @@ const GlobalStyles = createGlobalStyle`
 
   #root {
     min-width: 100vw;
-    min-height: 100vh;
+    height: 100vh;
     background-color: #0e0e0e;
     display: flex;
     flex-direction: column;
